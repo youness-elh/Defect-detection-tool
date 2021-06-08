@@ -1,5 +1,10 @@
 # Defect-detection-tool
-This a Python sciript allowing the reconstruction of objects in an ultrasound image into 3D objects. Those objects are fabirication defects spoted using XY and XZ ultrasound images.
+This a Python script allowing the reconstruction of objects in an ultrasound image into 3D objects. Those objects are fabrication defects spotted using XY and XZ ultrasound images.
+
+The tool is made progressively in two parts:
+
+* The project: During the summer semester of 2019 and preparing familiarize with the topic
+* The internship: Two months stating from 1st of July 2019.
 
 ## References
 
