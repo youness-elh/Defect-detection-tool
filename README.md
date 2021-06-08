@@ -6,11 +6,6 @@ The tool is made progressively in two parts:
 * The project: During the summer semester of 2019 and preparing familiarize with the topic
 * The internship: Two months stating from 1st of July 2019.
 
-The tool is made progressivly in two parts:
-
-* The project: During the summer semester of 2019 and preparing familarize with the topic
-* The internsahip: Two months stating from 1st of July 2019.
-
 ## References
 
 This work is done in **Fraunhofer IWM** at the Structural Integrity and Fracture Mechanics group under the supervision of Mr. Ali Aydin and Mr. Igor Varfolomeev. The UT images are provided by:
